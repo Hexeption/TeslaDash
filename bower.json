@@ -1,0 +1,17 @@
+{
+  "name": "TeslaDash",
+  "authors": [
+    "Hexeption <minecraftfun201@gmail.com>"
+  ],
+  "description": "An Bootstrap Admin Template",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
